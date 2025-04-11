@@ -21,9 +21,8 @@ A simple **Daily Login Reward** system for MTA:SA servers. This resource provide
 
 | File              | Description                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
-| `server.lua`      | Core logic: login validation, reward distribution, timestamp storage        |
-| `reward_config.lua` | Configurable reward list (common & rare)                                  |
-| `meta.xml`        | Standard MTA:SA resource metadata                                            |
+| `server.lua`      | Core logic: login validation, reward distribution, timestamp storage        | 
+| `meta.xml`        | Standard MTA:SA resource metadata                                           |
 
 ---
 
